@@ -445,8 +445,11 @@ a{  color: #fff;
     text-align: center;
 }
 
-.img{
+.imgame-container {
     text-align: center;
+    img {
+        text-align: center;
+    }
 }
 
 
