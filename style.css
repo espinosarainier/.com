@@ -441,10 +441,6 @@ section .title::after{
     background: #77C4FF!important;
 }
 
-a{  color: #fff;
-    text-align: center;
-}
-
 
 /* contact section styling */
 .contact .title::after{
