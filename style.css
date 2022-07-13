@@ -408,10 +408,6 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
-
-a{color: #fff;
-    text-align: center;
-}
 .teams .carousel .card img{
     height: 150px;
     width: 150px;
@@ -444,6 +440,17 @@ a{color: #fff;
 .owl-dot:hover{
     background: #77C4FF!important;
 }
+
+a{  color: #fff;
+    text-align: center;
+}
+
+
+
+
+
+
+
 
 /* contact section styling */
 .contact .title::after{
