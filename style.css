@@ -443,10 +443,11 @@ section .title::after{
 
 a{  color: #fff;
     text-align: center;
-    img: center;
 }
 
-
+.img{
+    text-align: center;
+}
 
 
 
